@@ -1,0 +1,27 @@
+:root {
+    --md-primary-fg-color: #a6c1ff;
+    --md-primary-fg-color--light: #a6c1ff;
+    --md-primary-fg-color--dark: #a6c1ff;
+}
+
+header.md-header {
+    background-color: #394785;
+}
+
+body>.md-container>.md-tabs {
+    background-color: #394785;
+}
+
+body {
+    background-color: #222b45;
+}
+
+code {
+    --md-code-bg-color: #293557 !important;
+}
+
+/* Maximum space for text block */
+.md-grid {
+    max-width: 100%;
+    /* or 100%, if you want to stretch to full-width */
+}
