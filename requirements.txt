@@ -1,0 +1,5 @@
+blacken-docs
+mkdocs
+mkdocs-material
+mkdocs-mermaid2-plugin
+mkdocs-awesome-nav
